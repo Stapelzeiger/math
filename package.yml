@@ -1,0 +1,9 @@
+depends:
+    - test-runner
+
+source:
+    - quaternion.c
+
+tests:
+    - tests/quaternion_test.cpp
+
